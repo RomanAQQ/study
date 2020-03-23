@@ -3,8 +3,6 @@ package com.demo.entity;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
-import lombok.Getter;
-import lombok.Setter;
 import lombok.experimental.Accessors;
 
 import javax.persistence.*;
@@ -12,7 +10,7 @@ import javax.persistence.*;
 @Data
 @Table(name = "user")
 @Entity
-@Accessors(chain = true)//链式赋值注解
+@Accessors(chain = true)//链式赋值注解,简化书写
 @ApiModel(value = "com.demo.entity.User", description = "用户参数")
 public class User {
     @Id
