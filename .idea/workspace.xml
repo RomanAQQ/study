@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd126552-fdba-4e83-88a1-8750848278f1" name="Default Changelist" comment="试试">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springdemo.iml" beforeDir="false" />
+    <list default="true" id="cd126552-fdba-4e83-88a1-8750848278f1" name="Default Changelist" comment="try-version">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/dao/RegDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/dao/RegDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +173,7 @@
       <workItem from="1562137883162" duration="66000" />
       <workItem from="1610181683843" duration="313000" />
       <workItem from="1610182070054" duration="2261000" />
-      <workItem from="1610283523530" duration="59000" />
+      <workItem from="1610283523530" duration="133000" />
     </task>
     <task id="LOCAL-00001" summary="试试">
       <created>1610182670642</created>
@@ -187,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610182670642</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="try-version">
+      <created>1610283627753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610283627753</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -257,7 +259,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="试试" />
-    <option name="LAST_COMMIT_MESSAGE" value="试试" />
+    <MESSAGE value="try-version" />
+    <option name="LAST_COMMIT_MESSAGE" value="try-version" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/springdemo/controller.java" />

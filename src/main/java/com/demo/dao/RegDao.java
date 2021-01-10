@@ -13,6 +13,6 @@ public interface RegDao {
     @Insert("insert into user value(null,#{username},#{password},#{age})")
     void insert(User user);
 
-    @Select("select * from user where id=#{id}")
+    //@Select("select * from user where id=#{id}")
     User select(Integer id);
 }
